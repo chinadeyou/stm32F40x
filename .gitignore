@@ -1,0 +1,7 @@
+list/*
+output/*
+*.ini
+JlinkLog.txt
+JLinkSettings.ini
+*.deyou
+stm32F40x.uvopt
